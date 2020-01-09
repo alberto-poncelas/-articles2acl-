@@ -1,0 +1,6 @@
+[submodule "Tools/easy2acl"]
+	path = Tools/easy2acl
+	url = https://github.com/nblomqvist/easy2acl
+[submodule "Tools/ACLPUB"]
+	path = Tools/ACLPUB
+	url = https://github.com/acl-org/ACLPUB.git

@@ -1,0 +1,14 @@
+abbrev SHORTtitl
+type Conference
+title Title of the Conference
+url www.conferenceURL.com
+booktitle Title of the Proceedings
+month 1 January
+year 2000
+location City, Country
+publisher Publisher Name
+chairs SurnameA, NameA
+chairs SurnameB, NameB
+chairs SurnameC, NameC
+bib_url https://www.aclweb.org/anthology/W99-99%02d
+sig SHORT
